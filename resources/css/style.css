@@ -15,6 +15,10 @@ h2 {
     font-size: 30px;
 }
 
+.link {
+    color: #ffffff;
+}
+
 #navBar {
     display: flex;
     justify-content: space-between;
