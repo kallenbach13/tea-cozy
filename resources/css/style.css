@@ -59,7 +59,7 @@ h2 {
     justify-content: center;
     align-items: center;
     height: 700px;
-    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg);
+    background-image: url(../images/img-mission-background.jpeg);
     background-repeat: no-repeat;
 }
 
@@ -89,7 +89,7 @@ h2 {
     flex-direction: column;
     justify-content: center;
     height: 500px;
-    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg);
+    background-image: url(../images/img-locations-background.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
